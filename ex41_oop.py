@@ -1,5 +1,5 @@
 import random
-from urllib.request import urlopen
+from urllib.request import urlopen # download things from internet
 import sys
 
 WORD_URL = "http://learncodethehardway.org/words.txt"
