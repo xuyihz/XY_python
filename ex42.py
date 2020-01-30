@@ -6,7 +6,7 @@ class Animal(object):
 class Dog(Animal):
 
     def __init__(self, name):
-        ## self has-a name of some kind
+        ## Dog has-a attribute named name
         self.name = name
 
 ## ??
